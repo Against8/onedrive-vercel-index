@@ -17,7 +17,7 @@ module.exports = {
   kvPrefix: process.env.KV_PREFIX || '',
 
   // The name of your website. Present alongside your icon.
-  title: "Against's OneDrive",
+  title: "Against's Drive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
   baseDirectory: '/Public',
@@ -52,8 +52,8 @@ module.exports = {
   // you provide. See the documentation for details.
   links: [
     {
-      name: 'My ChatGPT',
-      link: 'https://gpt3-5.against.website',
+      name: '上课情况统计表',
+      link: 'https://docs.qq.com/sheet/DWVhEV2hrYXBGb1lG?tab=ss_8dxe9i',
     },
   ],
 
